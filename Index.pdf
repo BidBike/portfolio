@@ -1,0 +1,20 @@
+<head>
+    <link rel="stylesheet" href="Style.css">
+    <script src="Script.js"></script>
+    <title>Home</title>
+</head>
+
+<body>
+    <div class="topnav" id="myTopnav">
+        <a href="#contact">Contact</a>
+        <a href="Portfolio.html">Portfolio</a>
+        <a href="AboutMe.html">About Me</a>
+        <a href="#home" class="active">Home</a>
+    </div>
+      
+    <h1>Welcome to Yingwat Wongwaiwisawagul</h1>
+    <img src="D:\Portfolio\Portfolio_Image.png" width="400" height="500" border-radius="10px">
+
+    <br><br><Button class="buttonEnter" id="btn" onclick="clickCouth()">Enter</Button>
+    <br><br>Button Clicked <span id="display">0</span> Times
+</body>

@@ -1,0 +1,18 @@
+<head>
+    <link rel="stylesheet" href="Style.css">
+    <title>About Me</title>
+</head>
+
+<body>
+    <div class="topnav" id="myTopnav">
+        <a href="#contact">Contact</a>
+        <a href="Portfolio.html">Portfolio</a>
+        <a href="AboutMe.html" class="active">About Me</a>
+        <a href="Index.html">Home</a>
+    </div>
+
+    <div class="headTitle" id="headTitle">
+        About Me
+    </div>
+    My name is Yingwat Wongwaiwisawagul
+</body>
